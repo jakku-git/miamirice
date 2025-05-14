@@ -8,17 +8,17 @@ export default function Testimonials() {
   const testimonials = [
     {
       name: "Sarah Johnson",
-      text: "The Nasi Lemak here is the most authentic I've had outside of Malaysia. The flavors transported me back to Kuala Lumpur!",
+      text: "The Rendang Beef here is the most authentic I've had outside of Malaysia. The flavors transported me back to Kuala Lumpur!",
       rating: 5,
     },
     {
       name: "Michael Chen",
-      text: "As someone who grew up with Chinese cuisine, I can confidently say Miami Rice serves some of the most authentic dishes I've had in the States.",
+      text: "As someone who grew up with Chinese cuisine, I can confidently say Miami Rice serves some of the most authentic dishes I've had in the Gold Coast.",
       rating: 5,
     },
     {
       name: "Emily Rodriguez",
-      text: "The fusion of Malaysian and Chinese flavors is executed perfectly. The Char Kway Teow is a must-try!",
+      text: "The fusion of Malaysian and Chinese flavors is executed perfectly. The Laksa is a must-try!",
       rating: 4,
     },
   ]
