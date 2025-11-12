@@ -11,32 +11,32 @@ export default function MenuHighlights() {
 
   const menuItems = [
     {
-      name: "Malaysian Curry Laksa",
-      description: "Rich coconut curry broth with noodles and your choice of protein",
-      price: "$23.90",
-      image: "malaysian curry laksa.png",
-      category: "Chef's Recommendations",
-    },
-    {
-      name: "Spicy Malaysian Butter Chicken",
-      description: "With home-grown curry leaves and a fusion of Asian spices",
-      price: "$28.90",
-      image: "malaysian butter chicken.png",
-      category: "Chef's Recommendations",
-    },
-    {
       name: "Rendang Beef",
-      description: "Slow-cooked beef in a rich, aromatic coconut sauce",
-      price: "$28.90",
+      description: "Slow-cooked beef in rich coconut rendang",
+      price: "$30.90",
       image: "rendang beef.png",
       category: "Chef's Recommendations",
     },
     {
-      name: "Creamy Garlic Butter Sizzling Prawns",
-      description: "Sizzling prawns in a creamy garlic butter sauce with onions",
-      price: "$35.90",
+      name: "Spicy Malaysian Butter Chicken",
+      description: "Butter sauce with home-grown curry leaves",
+      price: "$30.90",
+      image: "malaysian butter chicken.png",
+      category: "Chef's Recommendations",
+    },
+    {
+      name: "Creamy Garlic Butter Sizzling Prawns with Onions",
+      description: "Sizzling prawns in creamy garlic butter",
+      price: "$30.90",
       image: "creamy garlic butter sizzling prawns.png",
-      category: "Seafood",
+      category: "Chef's Recommendations",
+    },
+    {
+      name: "Crispy Skin Roast Chicken (Canton Style)",
+      description: "Cantonese-style crispy roast chicken",
+      price: "$30.90",
+      image: "crispy roast chicken.png",
+      category: "Chef's Recommendations",
     },
   ]
 
